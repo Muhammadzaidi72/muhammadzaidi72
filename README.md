@@ -6,8 +6,9 @@
 - 📫 Reach me at: [smrz1272@gmail.com] | [http://linkedin.com/in/syed-muhammad-raza-shah-887l1044]
 - ⚡ Fun fact: I love solving ML challenges on Kaggle
 
-### 📊 GitHub Stats
-![Your GitHub stats]((https://github-readme-stats.vercel.app/api?username=Muhammadzaidi72&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadzaidi72&show_icons=true&theme=radical)
+
 
 ### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
