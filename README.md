@@ -1,7 +1,16 @@
-# Welcome to streamlit
+## Hi there 👋, I'm [Muhammad zaidi]
+🚀 AI/ML Engineer | NLP Enthusiast | Web Developer | Open Source Contributor
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+- 🔭 Currently working on AI-powered applications
+- 🌱 Learning MLOps and Large Language Models (LLMs)
+- 📫 Reach me at: [smrz1272@gmail.com] | [http://linkedin.com/in/syed-muhammad-raza-shah-887l1044]
+- ⚡ Fun fact: I love solving ML challenges on Kaggle
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?Muhammadzaidi72=Muhammadzaidi72&show_icons=true&theme=radical)
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+### 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-%23F7DF1E.svg?style=for-the-badge)
+...
+
