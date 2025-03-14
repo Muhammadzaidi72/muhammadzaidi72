@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love solving ML challenges on Kaggle
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Muhammadzaidi72=Muhammadzaidi72&show_icons=true&theme=radical)
+![Your GitHub stats]((https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
